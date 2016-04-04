@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * Created by Indreiu Ovidiu  on 05-Apr-16.
+ *  Created by Indreiu Ovidiu  on 05-Apr-16.
  */
 
 public class p1 {
