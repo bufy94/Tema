@@ -17,10 +17,9 @@ public class p1 {
         System.out.println("Introduceti numarul cautat: ");
         Scanner in = new Scanner(System.in);
         int nr= in.nextInt();
-        int i=0;
         boolean f=false;
 
-        for(i=0;i<10;i++)
+        for(int i=0;i<10;i++)
             if(sir[i] == nr)
             {
                 System.out.println("Pozitia numarului este: " + i+" (numerotarea a inceput de la 0.)");
