@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * Created by Indreiu on 05-Apr-16.
+ * Created by Indreiu Ovidiu on 05-Apr-16.
  */
 /*
 11. Se da un sir. Sa se extraga toate numerele intre doua valori si sa se puna intr-un alt sir care apoi sa se afiseze.
