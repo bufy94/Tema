@@ -9,10 +9,7 @@ de ex pt sirul {2,3,4} se va afisa “crescator” iar pt sirul {3,2,4}  si va o
 public class p9 {
     public static void main(String[] a) {
 
-        int[] sir = {1, 2, 3, 4, 6 ,5 ,9 ,10 ,77};
-
-
-
+        int[] sir = {1, 2, 65, 4, 6 ,156 ,-4 ,10 ,77};
         for(int i=0; i < sir.length-1; i++) {
             int min = i;
             for (int next = i + 1; next < sir.length; next++) {
